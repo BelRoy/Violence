@@ -8224,6 +8224,7 @@ h1, h2, h3, h4, h5,
     background: transparent;
     z-index: -1;
     opacity: .6; }
+ 
   @media (min-width: 992px) {
     #colorlib-aside {
       width: 25%; } }
@@ -8332,6 +8333,9 @@ h1, h2, h3, h4, h5,
       font-family: "Poppins", Arial, sans-serif; }
     #colorlib-aside .colorlib-footer a {
       color: #fff; }
+      #colorlib-aside .colorlib-footer p{
+      color: #fff;
+    }
     #colorlib-aside .colorlib-footer .pfooter {
       font-size: 14px; }
     #colorlib-aside .colorlib-footer .colorlib-subscribe-form {
